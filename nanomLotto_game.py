@@ -1,4 +1,3 @@
-
 import random
 
 rand_1 = random.randint(1, 45)
