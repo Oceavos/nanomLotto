@@ -21,7 +21,6 @@ result_bonus_num = random.randint(1, 45)
 
 answer_result = [result_rand_1, result_rand_2, result_rand_3, result_rand_4, result_rand_5, result_rand_6]
 answer_bonus = result_bonus_num
-
 if answer_result == answer_bonus:
     print("당신은 행운인! 1등 당첨!")
 else:
